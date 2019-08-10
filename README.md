@@ -12,7 +12,7 @@ An image processing app built with Java.
  - Pixel shifting and scaling.
  - Arithmetic Boolean operations between images.
  - Point processing and bit-plane slicing.
- - Convulotion for smoothing and edge detection.
+ - Convolution for smoothing and edge detection.
  - Order statistics filtering.
  - Histogram equalisation. 
  - Thresholding.
