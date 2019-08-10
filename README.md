@@ -8,17 +8,17 @@ An image processing app built with Java.
 
 ### Features:
 
-1. Loads and displays images.
-2. Pixel shifting and scaling.
-3. Arithmetic Boolean operations between images.
-4. Point processing and bit-plane slicing.
-5. Convulotion for smoothing and edge detection.
-6. Order statistics filtering.
-7. Histogram equalisation. 
-8. Thresholding.
-9. Region Of Interest processing.
-10. Consecutive processing and undo function.
-11. A simple menu system. 
+ - Loads and displays images.
+ - Pixel shifting and scaling.
+ - Arithmetic Boolean operations between images.
+ - Point processing and bit-plane slicing.
+ - Convulotion for smoothing and edge detection.
+ - Order statistics filtering.
+ - Histogram equalisation. 
+ - Thresholding.
+ - Region Of Interest processing.
+ - Consecutive processing and undo function.
+ - A simple menu system. 
 
 ## Installation
 
