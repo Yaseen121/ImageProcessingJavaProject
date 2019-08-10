@@ -3,8 +3,10 @@
 
 An image processing app built with Java.
 
-### Features:
+
 ![java-image-processing-app](https://i.imgur.com/9c9bd1w.png)
+
+### Features:
 
 1. Loads and displays images.
 2. Pixel shifting and scaling.
