@@ -1,5 +1,5 @@
 
-# Image Processing Project Final - A Simple Image Processing Software
+# Image Processing Project Final - A Simple Image Processing Software (Spring 2019)
 
 An image processing app built with Java.
 
